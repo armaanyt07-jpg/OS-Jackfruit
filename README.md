@@ -10,7 +10,7 @@ Read [`project-guide.md`](project-guide.md) for the full project specification.
 
 ### 1. Fork the Repository
 
-1. Go to [github.com/shivangjhalani/OS-Jackfruit](https://github.com/shivangjhalani/OS-Jackfruit)
+1. Go to [github.com/armaanyt07-jpg/OS-Jackfruit](https://github.com/armaanyt07-jpg/OS-Jackfruit)
 2. Click **Fork** (top-right)
 3. Clone your fork:
 
